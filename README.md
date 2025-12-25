@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+# Studi Kasus II: Buttons of Logic
+
+Nama: Taruna Rajasa Iryawan
+Program: Mobile Development
+
+## Deskripsi
+Aplikasi penghitung sederhana dengan logika "Zero Strike" menggunakan Flutter.
+
+## Link Download APK
+Berikut adalah link unduhan aplikasi (.apk) yang dapat dijalankan di Emulator (x86_64):
+[Klik Disini untuk Download APK](https://drive.google.com/file/d/1J2yHSUO2X2KbmEM4IgB_TLLHmqw-ugLk/view?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
